@@ -13,6 +13,6 @@ Your donation directly helps keep development active, improve documentation, and
 
 * Bitcoin: `bc1qndgqa760tc5yc5d0mhgd67nyvc633pymz8fnu0`
 * Ethereum: `0x018586112457ACf975EAb183D36F368D917745f9`
-* USDC (Eth): `0x018586112457ACf975EAb183D36F368D917745f9`
+* USDC (ERC-20): `0x018586112457ACf975EAb183D36F368D917745f9`
 
 Thank you for supporting open-source development and helping this project grow. 🙏
